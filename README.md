@@ -15,7 +15,7 @@ This is the pytorch version code of Few-Shot Learning with Visual Distribution C
 
 SADA is introduced from《Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment》
 
-Paper ：Runqi Wang, Yuxiang Bao, Baochang Zhang, Jianzhuang Liu, Wentao Zhu, Guodong Guo."Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment". In CVPR, 2023.
+Paper ：Runqi Wang, Hao Zheng, Xiaoyue Duan, Jianzhuang Liu, Yuning Lu, Tian Wang, Songcen Xu, Baochang Zhang. "Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment". In CVPR, 2023.
 
 ## [Datasets](#Content)
 
